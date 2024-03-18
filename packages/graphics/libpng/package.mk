@@ -3,10 +3,10 @@
 # Copyright (C) 2016-present Team LibreELEC (https://libreelec.tv)
 
 PKG_NAME="libpng"
-PKG_VERSION="1.6.40"
-PKG_SHA256="535b479b2467ff231a3ec6d92a525906fb8ef27978be4f66dbe05d3f3a01b3a1"
+PKG_VERSION="1.7.0"
+PKG_SHA256="b1d28bad52675f4bd256d48747e64ce3d3edd1420bc4e2eed3e404cabfa6c548"
 PKG_LICENSE="LibPNG2"
-PKG_SITE="http://www.libpng.org/"
+PKG_SITE="https://github.com/kimcrowing/CoreELEC-CM311-1a/"
 PKG_URL="${SOURCEFORGE_SRC}/libpng/${PKG_NAME}-${PKG_VERSION}.tar.xz"
 PKG_DEPENDS_HOST="zlib:host"
 PKG_DEPENDS_TARGET="toolchain zlib"
