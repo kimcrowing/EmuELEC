@@ -4,7 +4,7 @@
 
 PKG_NAME="libpng"
 PKG_VERSION="1.7.0"
-PKG_SHA256="b1d28bad52675f4bd256d48747e64ce3d3edd1420bc4e2eed3e404cabfa6c548"
+PKG_SHA256="8432e2f487017c3ecba0ab3e8ba414cbdbbd7bba525c9808e9a04591acccc1e7"
 PKG_LICENSE="LibPNG2"
 PKG_SITE="https://github.com/kimcrowing/Emu/raw/master"
 PKG_URL="${SOURCEFORGE_SRC}/sources/${PKG_NAME}-${PKG_VERSION}.tar.xz"
