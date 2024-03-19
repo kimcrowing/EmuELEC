@@ -3,11 +3,11 @@
 # Copyright (C) 2016-present Team LibreELEC (https://libreelec.tv)
 
 PKG_NAME="libpng"
-PKG_VERSION="1.7.0"
-PKG_SHA256="54fa75e9190033a478ed0823064ac66d42f8d816957fed9618b4e6be1ad462ac"
+PKG_VERSION="1.6.40"
+PKG_SHA256="535b479b2467ff231a3ec6d92a525906fb8ef27978be4f66dbe05d3f3a01b3a1"
 PKG_LICENSE="LibPNG2"
-PKG_SITE="https://ghproxy.org/github.com/kimcrowing/Emu/raw/master"
-PKG_URL="${SOURCEFORGE_SRC}/sources/${PKG_NAME}-${PKG_VERSION}.tar.xz"
+PKG_SITE="http://www.libpng.org/"
+PKG_URL="${SOURCEFORGE_SRC}/libpng/${PKG_NAME}-${PKG_VERSION}.tar.xz"
 PKG_DEPENDS_HOST="zlib:host"
 PKG_DEPENDS_TARGET="toolchain zlib"
 PKG_LONGDESC="An extensible file format for the lossless, portable, well-compressed storage of raster images."
